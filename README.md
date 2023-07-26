@@ -1,7 +1,7 @@
 # Photos
 
 ## Description
-This is an implementation of a Photos web app using JavaFX, a single-user photo application that allows storage and management of photos in one or more albums. UI is designed in FXML. 
+This is an implementation of a Photos web app using JavaFX, a photo application that allows storage and management of photos in one or more albums. UI is designed in FXML. 
 
 Unified Modeling Language is used for the system design.
 
